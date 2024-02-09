@@ -13,7 +13,6 @@ Evaluate News NLP is a web application that analyzes the sentiment of articles u
 
 ## Running The Project
 ### Install dependencies:
-cd evaluate-news-nlp
 npm install
 
 ### Start the server:
