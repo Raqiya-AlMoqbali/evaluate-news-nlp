@@ -5,7 +5,7 @@ Evaluate News NLP is a web application that analyzes the sentiment of articles u
 
 ## Features 
 - Setting up Webpack
-- Sass styles
+- SCSS styles
 - Webpack Loaders and Plugins
 - Creating layouts and page design
 - Service workers
