@@ -26,7 +26,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebPackPlugin({
-            template: "./src/client/views/index.html",
+            template: "./src/client/views/index.html",٨
             filename: "./index.html",
             inject: 'body'
         }),
@@ -44,11 +44,3 @@ module.exports = {
         })
     ]
 }
-    /*
-    output: {
-        libraryTarget: 'var',
-        library: 'Client',
-        path: path.resolve(__dirname, 'dist'),
-    },
-}
-*/
